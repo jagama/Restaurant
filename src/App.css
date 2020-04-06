@@ -1,0 +1,38 @@
+.App {
+  height: 100%;
+  max-width: 100%;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+#navbar {
+  padding: 0.5em 0 0.5em 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f7f6f5;
+  z-index: 50;
+  position: fixed;
+
+}
+
+#wrapper {
+  height: 100vh;
+  max-width: 100%;
+  max-height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+
+@media screen and (max-width: 430px) {
+  #wrapper {
+    justify-content: unset;
+
+  }
+}

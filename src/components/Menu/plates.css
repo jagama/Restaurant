@@ -1,0 +1,11 @@
+#menu-container{
+    padding-top: 2em;
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
+.menu-style{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}

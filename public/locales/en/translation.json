@@ -1,0 +1,65 @@
+{
+    "floating": [
+      {
+        "title": "Ristorante",
+        "content": "Una esperienza di sapori e profumi tutti da scoprire. ",
+        "content2": "Vieni a trovarci, saremo lieti di farti vivere una esperienza unica e magica.",
+        "id": 0
+      }
+    ],
+    "content": [
+      {
+        "title": "Una grande storia",
+        "content": "La nostra cucina non è una lista di ingredienti: è il racconto del paesaggio Italiano e delle nostre passioni.La cucina è tecnicha e cultura.",
+        "url": "https://images.unsplash.com/photo-1519197866503-17cac015dc0c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "id": 1
+      },
+      {
+        "title": "Una seconda grande storia",
+        "content": "L’ospitalità Italiana fin dai più piccoli dettagli.È l’insieme dei gesti che definisce uno stile: il viaggio comincia dal tavolo.",
+        "url": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+        "id": 2
+      }
+    ],
+    "footer": [
+      {
+        "title": "Footer",
+        "content": "Ogni oggetto rivela diversi livelli di interpretazione. L’arte contemporanea è ispirazione, l’arte è un invito alla scoperta.",
+        "button": "prenotazioni",
+        "id": 0
+      }
+    ],
+    "menu": [
+      {
+        "title": "Tutto",
+        "content": "L’Osteria è sia veloce che lenta: Una cucina tradizionale e contemporanea allo stesso tempo. Questo menu degustazione cambia costantemente seguendo la ricerca più contemporanea della nostra cucina.",
+        "menu": "Menu degustazione a 12 portate",
+        "vine": "Abbinamento vini",
+        "id": 0
+      },
+      {
+        "title": "Antipasti",
+        "content": "Salmone",
+        "content2": "Tonno",
+        "content3": "Prosciutto",
+        "content4": "Aria fritta",
+        "id": 1
+      },
+      {
+        "title": "Primi",
+        "content": "Pasta al sugo",
+        "content2": "Pasta alpesto",
+        "content3": "Gnocchi della nonna",
+        "content4": " Ravioli del nonno",
+        "id": 2
+      },
+      {
+        "title": "Secondi",
+        "content": "Cotoletta",
+        "content2": "Bistecca",
+        "content3": "Fritto misto",
+        "content4": "Branzino",
+        "id": 3
+      }
+    ]
+  }

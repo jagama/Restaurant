@@ -1,0 +1,62 @@
+#hero{
+  display: flex!important;
+  align-items: center;
+height: 245%;
+width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(../../assets/food2.jpg);
+}
+#intro{   
+  display: flex;
+  align-items: center;
+  height: 16%;
+  width: 100%;
+  background-color: #f7f6f5;
+}
+#text-intro{
+  padding: 2em 0 2em 0;
+  width: 80%;
+  margin: auto;
+  text-align: left;
+}
+#intro-mobile{
+display: none;
+}
+.text-style{
+  display: flex;
+  justify-content: space-between;
+}
+#food-wrapper{
+  width: 100%;
+  padding-top: 2em;
+  background-color: #f7f6f5;
+}
+#menu-bridge {
+  margin-top: 2em;
+  height: 80%;
+  width: 100%;
+  background: url(../../assets/cake.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+/* On screens that are 400px or less, set div : '#intro' height to prevent text out ofthe box. W la figa */
+@media screen and (max-width: 430px) {
+#hero{
+  height: 100%;
+  max-width: 100%;
+  background: url(../../assets/food.jpg) no-repeat center center;
+  background-size: cover;
+}
+  #intro {
+      display: none;
+  }
+}
+
+@media screen and (min-width: 430px) {
+  #menu-bridge{
+    background-attachment: fixed;
+  }
+}

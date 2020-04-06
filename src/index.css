@@ -1,0 +1,16 @@
+html, body {
+  height: 100vh;
+  max-height: 100%;
+  width: 100vw;
+  max-width: 100%;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+div {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}
+
+

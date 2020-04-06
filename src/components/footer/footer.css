@@ -1,0 +1,23 @@
+#footer{
+    padding: 2em; 
+   
+    
+}
+.ant-descriptions-view{
+    text-align: left!important;
+    padding: 4em;
+}
+#footer-img{
+    margin: 2em 0 2em 0;
+    height: 6em;
+    width: auto;
+}
+#center{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#footer-content{
+    width: -webkit-fill-available;
+}
